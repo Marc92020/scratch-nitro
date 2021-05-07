@@ -13,3 +13,5 @@ We are looking for a good coder, that can make browser extensions, like Scratch 
 - Others that don't have the extension won't see the special features
 - It isn't possible to mention the extension on Scratch, or Scratch Forums
 - We don't know how can we get it in Chrome extension store
+### How will Scratchcoins work?
+Scratchcoins will work by using extension features very often. You start off with 0 scratchcoins (because normal scratch nitro is free) and the more Scratchcoins you get, the more Scratch Nitro ranks you can get!
