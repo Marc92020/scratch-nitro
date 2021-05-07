@@ -1,4 +1,6 @@
 # Scratch Nitro browser extension
+![](https://img.shields.io/github/forks/Marc92020/scratch-nitro?color=g&style=plastic) ![GitHub watchers](https://img.shields.io/github/watchers/Marc92020/scratch-nitro?color=g&style=plastic) ![GitHub Repo stars](https://img.shields.io/github/stars/Marc92020/scratch-nitro?color=g&style=plastic) ![GitHub](https://img.shields.io/github/license/Marc92020/scratch-nitro?style=plastic)
+<br>
 Marc92020 and JackyBorderCollie have decided to make a browser extension. But not any kind of extension! It's an extension similar to Scratch Addons, but it enables the features that are in Scratch Nitro, so everyone can experience it! Moreover, it would be much easier to make sneak peek videos with it.
 ## How do we do this?
 We are looking for a good coder, that can make browser extensions, like Scratch Addons. We plan on inviting Jeffalo over, because he contributes to Scratch Addons too.
