@@ -9,12 +9,12 @@ We are looking for a good coder, that can make browser extensions, like Scratch 
 ### Pros
 - More users can experience Scratch Nitro
 - Way easier to make Scratch Nitro sneak peek videos
-- It would be easier for users that don't know how to use Inspect Element
-- It would also add Scratch Coins (because they are required to buy Scratch Nitro)
+- We now know how to get it onto the webstore (well, at least me, @Marc92020)
+- We now know how Scratchcoins will work
 ### Cons
 - A good extension coder is required
 - Others that don't have the extension won't see the special features
 - It isn't possible to mention the extension on Scratch, or Scratch Forums
-- We don't know how can we get it in Chrome extension store
+- To get it onto the Chrome Webstore we need to create a Chrome Developers account and we need to pay 5 dollars using a credit card
 ### How will Scratchcoins work?
 Scratchcoins will work by using extension features very often. You start off with 0 scratchcoins (because normal scratch nitro is free) and the more Scratchcoins you get, the more Scratch Nitro ranks you can get!
